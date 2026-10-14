@@ -1,8 +1,8 @@
 # Hi, I'm Norbert Endoh 👋
 
-**Vulnerability Analyst & SOC Analyst** · CompTIA Security+ · Katy / Houston, TX
+**Vulnerability Analyst & SOC Analyst** · CompTIA Security+ · Katy, TX
 
-I find security weaknesses, prove they're real, and verify the fix actually works. I'm moving into cybersecurity after 5+ years in 24/7 security operations with the Texas Department of Criminal Justice, backed by a 13+ month hands-on cybersecurity program and a Bachelor's in Cybersecurity in progress at Strayer University (expected Sep 2027).
+I find security weaknesses, prove they're real, and verify the fix actually works. I'm moving into cybersecurity after 5+ years in 24/7 security operations with the Texas Department of Criminal Justice, backed by a 13-week, 100+ hour hands-on cybersecurity program and a Bachelor's in Cybersecurity in progress at Strayer University (expected Sep 2027).
 
 ## Featured Projects (pinned below)
 
@@ -20,6 +20,6 @@ I find security weaknesses, prove they're real, and verify the fix actually work
 **Web & platforms:** Burp Suite · OWASP ZAP · OWASP Top 10 · Kali Linux · Ubuntu Server · Windows · VMware
 
 ## Certifications
-CompTIA Security+ ce · Cisco Ethical Hacker · Hands-On Cyber Security Training (HAC-CS358) · AWS Academy Cloud Foundations
+CompTIA Security+ CE · Cisco Ethical Hacker · Hands-On Cyber Security Training (HAC-CS358) · AWS Academy Cloud Foundations
 
 📫 [linkedin.com/in/norbert26](https://www.linkedin.com/in/norbert26) · Open to Vulnerability Analyst and SOC Analyst roles
