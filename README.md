@@ -12,8 +12,11 @@ I find security weaknesses, prove they're real, and verify the fix actually work
 | **SOC Analyst Home Lab: Splunk SIEM** | Windows log ingestion, SPL detection engineering, **5 scheduled alerts**, a 12-panel SOC dashboard, and an alert investigation (4625 → 4624 → 4688) through to documented closure |
 
 ## Tools & Skills
+
 **Vulnerability management:** Tenable Nessus · Nmap · Nping · Nikto · CVSS · PowerShell · CIS Benchmarks
+
 **SOC & detection:** Splunk · SPL · Windows Event Logs · Wireshark · MITRE ATT&CK · Incident Response
+
 **Web & platforms:** Burp Suite · OWASP ZAP · OWASP Top 10 · Kali Linux · Ubuntu Server · Windows · VMware
 
 ## Certifications
